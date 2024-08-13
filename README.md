@@ -14,8 +14,11 @@ Mark as Complete: Keep track of completed tasks for better organization.
 Filter Tasks: View tasks based on their status (e.g., All, Active, Completed).
 
 Technology Used:
-Technologies Used
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js
+
 Database:Json
+
 Frameworks/Libraries: React
